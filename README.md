@@ -4,9 +4,7 @@
 	<br>
 </h1>
 <p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="http://contributor-covenant.org/">Code of Conduct</a>
 </p>
 
