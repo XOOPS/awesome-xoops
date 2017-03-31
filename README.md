@@ -41,16 +41,13 @@ XOOPS tutorials are on [GitBook](https://www.gitbook.com/@xoops/). Some of the t
 
 This is a list of modules that you might find useful to start with XOOPS CMS
 
-### Blogs/News
-
+#### Blogs/News
 - [Publisher](https://github.com/XoopsModules25x/publisher)
 
-### Gallery
-
+#### Gallery
 - [extGallery](https://github.com/XoopsModules25x/extgallery)
 
-### Calendar
-
+#### Calendar
 - [extCal](https://github.com/XoopsModules25x/extcal)
 - [apCal](https://github.com/XoopsModules25x/apcal)
 
