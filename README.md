@@ -40,6 +40,29 @@ XOOPS tutorials are on [GitBook](https://www.gitbook.com/@xoops/). Some of the t
 - [XOOPS Installation Guide](https://www.gitbook.com/book/xoops/xoops-installation-guide)
 - [XOOPS Operations Guide](https://www.gitbook.com/book/xoops/xoops-operations-guide)
 
+- [Building XOOPS modules](https://www.gitbook.com/book/xoops/kaotik-module-tutorial/)
+- [Module NewBB (Discussion Forums)](https://xoops.gitbooks.io/newbb-tutorial/)
+- [xLanguage Module Tutorial](https://www.gitbook.com/book/xoops/xlanguage-tutorial/)
+- [XMF Cookbook](https://www.gitbook.com/book/xoops/xmf-cookbook/)
+- [rwBanner](https://www.gitbook.com/book/xoops/rwbanner-tutorial/)
+- [XOOPS Assets Manager for XOOPS 2.6.0](https://www.gitbook.com/book/xoops/assetics/)
+- [XoopsInfo Tutorial](https://www.gitbook.com/book/xoops/xoopsinfo-tutorial/)
+- [Contact Us Tutorial](https://www.gitbook.com/book/xoops/contact-tutorial/)
+- [XoopsHP Tutorial](https://www.gitbook.com/book/xoops/xoopshp-tutorial/)
+- [XoopsHeadline Tutorial](https://www.gitbook.com/book/xoops/xoopsheadline-tutorial/)
+- [gBook Tutorial](https://www.gitbook.com/book/xoops/gbook-tutorial/)
+- [gWiki T­utoria­l](https://www.gitbook.com/book/xoops/gwiki-tutorial/)
+- [gwLoto Tutorial](https://www.gitbook.com/book/xoops/gwloto-tutorial/)
+- [gwReports Tutorial](https://www.gitbook.com/book/xoops/gwreports-tutorial/)
+- [About Us Tutorial](https://www.gitbook.com/book/xoops/about-tutorial/)
+- [XoopsCare Tutorial](https://www.gitbook.com/book/xoops/xoopscare-tutorial/)
+- [XOOPS Module Installer Tutorial](https://www.gitbook.com/book/xoops/moduleinstaller-tutorial/)
+- [XOOPS ModuleAdmin Framework Tutorial](https://www.gitbook.com/book/xoops/moduleadmin-tutorial/)
+- [myConference Tutorial](https://www.gitbook.com/book/xoops/myconference-tutorial/)
+- [MyLinks Tutorial](https://www.gitbook.com/book/xoops/mylinks-tutorial/)
+- [XoopsPoll Module Tutorial](https://www.gitbook.com/book/xoops/xoops-xoopspoll-module-tutrial/)
+- [­News Tutorial](https://www.gitbook.com/book/xoops/news-tutorial/)
+
 
 ## Modules
 
