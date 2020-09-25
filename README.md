@@ -31,7 +31,7 @@ The current version of XOOPS is 2.5.x
 - [Stable version](https://github.com/XOOPS/XoopsCore25/releases/latest)
 - [Development](https://github.com/XOOPS/XoopsCore25/)
 
-The upcoming "next generation" version of XOOPS CMS is being crafted on GitHub at: https://github.com/XOOPS/XoopsCore
+The upcoming "next generation" version of XOOPS CMS is crafted on GitHub at: https://github.com/XOOPS/XoopsCore
 
 ## Tutorials
 
@@ -66,17 +66,26 @@ XOOPS tutorials are on [GitBook](https://www.gitbook.com/@xoops/). Some of the t
 
 ## Modules
 
-This is a list of modules that you might find useful to start with XOOPS CMS
+You can find the list of actively updated modules on GitHub's [XoopsModules25x](https://github.com/XoopsModules25x)
+
+Here are some modules that you might find useful to start with XOOPS CMS
 
 #### Blogs/News
 - [Publisher](https://github.com/XoopsModules25x/publisher)
 
+#### Forums/Discussion Boards
+- [NewBB](https://github.com/XoopsModules25x/newbb)
+
 #### Gallery
 - [extGallery](https://github.com/XoopsModules25x/extgallery)
+- [wgGallery](https://github.com/XoopsModules25x/wggallery)
 
 #### Calendar
 - [extCal](https://github.com/XoopsModules25x/extcal)
 - [apCal](https://github.com/XoopsModules25x/apcal)
+
+#### Module generators
+- [ModuleBuilder](https://github.com/XoopsModules25x/modulebuilder)
 
 ## Themes
 
@@ -149,7 +158,7 @@ This is a list of Themes that you might find useful to start with XOOPS CMS
 
 ## Awards
 
-- [XOOPS Awards](http://xoops.org/modules/wfchannel/index.php?cid=28)
+- [XOOPS Awards](https://xoops.org/modules/wfchannel/index.php?cid=28)
 
 ## Contribute
 
@@ -162,4 +171,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [XOOPS Project](http://xoops.org) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [XOOPS Project](https://xoops.org) has waived all copyright and related or neighboring rights to this work.
